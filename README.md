@@ -11,7 +11,7 @@ cd/client
 cd..
 ### `node index.js` to run express server
 
-### You must provide your own OpenAI api key for this to function and edit edit the Configuration.apiKey to your own
+### You must provide your own OpenAI api key for this to function. create a .env file outside the client folder and assign your api to this variable: OPENAI_SECURE_KEY=
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
