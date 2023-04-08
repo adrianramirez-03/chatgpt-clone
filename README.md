@@ -6,7 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+cd/client
+### `npm start` to run the client
+cd..
+### `node index.js` to run express server
+
+### You must provide your own OpenAI api key for this to function and edit edit the Configuration.apiKey to your own
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
